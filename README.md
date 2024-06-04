@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DAHAMMohamed
-- 👀 I’m interested in project, Hacking, Design, Game
-- 🌱 I’m currently learning C#
-- 📫 How to reach me by my instagram page https://www.instagram.com/daham_mohamede_/?hl=fr or my Facebook https://www.facebook.com/mohamed.daham.963.
+- 👀 I’m interested in project, Network, Cloud, Devops, App mobile, App deskop, AI, App mobile, Tech, IT
+- 🌱 I’m currently learning Flutter, Paython.
 
 <!---
 DAHAMMohamed/DAHAMMohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
