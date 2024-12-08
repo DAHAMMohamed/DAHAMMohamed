@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DAHAMMohamed
-- 👀 I’m interested in project, Network, Cloud, Devops, App mobile, App deskop, AI, App mobile, Tech, IT
-- 🌱 I’m currently learning Flutter, Python.
+- 👀 I’m interested in project, Network, Cloud, Devops, App mobile, App deskop, AI, IOT
+- 🌱 I’m currently learning Django.
 
 <!---
 DAHAMMohamed/DAHAMMohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
